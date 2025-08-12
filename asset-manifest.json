@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Anschema/static/css/main.1d766016.css",
-    "main.js": "/Anschema/static/js/main.998d0511.js",
+    "main.js": "/Anschema/static/js/main.0c656fa4.js",
     "index.html": "/Anschema/index.html",
     "main.1d766016.css.map": "/Anschema/static/css/main.1d766016.css.map",
-    "main.998d0511.js.map": "/Anschema/static/js/main.998d0511.js.map"
+    "main.0c656fa4.js.map": "/Anschema/static/js/main.0c656fa4.js.map"
   },
   "entrypoints": [
     "static/css/main.1d766016.css",
-    "static/js/main.998d0511.js"
+    "static/js/main.0c656fa4.js"
   ]
 }
